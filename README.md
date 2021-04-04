@@ -1,6 +1,5 @@
  <a href="https://hildebrando-viana-matos.github.io/supermarket_list/">
-    <img align="center" src="![image](https://user-images.githubusercontent.com/70374072/113515311-13f6ec00-954a-11eb-901e-e48ad3e0aa17.png)
-![image](https://user-images.githubusercontent.com/70374072/113515262-c9756f80-9549-11eb-8531-bfb387c9947c.png)" alt="banner H border-radius">
+    <img align="center" src="https://github.com/Hildebrando-Viana-Matos/supermarket_list/blob/main/list-supermaket-img-readme.png" alt="banner supermarket list">
  </a>
  
 <details open="open">
@@ -57,4 +56,4 @@ You want contribute of this object????:scream: GREAT!!!!:heart_eyes::heart_eyes:
 
 Hildebrando Viana Matos - [@hildovm](https://www.instagram.com/hildovm/) - hildocontato@gmail.com
 
-Project Link: [https://hildebrando-viana-matos.github.io/border-radius-generator/.](https://hildebrando-viana-matos.github.io/supermarket_list/)
+Project Link: [https://hildebrando-viana-matos.github.io/supermarket_list/](https://hildebrando-viana-matos.github.io/supermarket_list/)
